@@ -1,6 +1,7 @@
 # My config file
 
-It's for: 
+It's for:
+
 - Neovim
 - Powershell
 - Bash
