@@ -1,13 +1,5 @@
 # My config file
 
-It's for:
-
-- Neovim
-- Powershell
-- Bash
-- Alacritty
-- ...
-
-Hope you can find something useful on my repo.
+Hope you can find something useful on this repository.
 
 Have a nice day! 🍀 😄
