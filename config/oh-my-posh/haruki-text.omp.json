@@ -20,7 +20,7 @@
           "type": "path"
         },
         {
-					"foreground": "#ff94df",
+          "foreground": "#ff94df",
           "properties": {
             "branch_icon": " <#ff94df><b>\ue0a0 </b></>",
             "fetch_stash_count": true
