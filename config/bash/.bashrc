@@ -1,20 +1,12 @@
-# oh-my-posh
+# Prompt
 eval "$(oh-my-posh init bash --config ~/haruki.omp.json)"
 
-# z directory jumper
+# Z directory jumper
 . ~/z.sh
 
-# alacritty
-. "$HOME/.cargo/env"
-source ~/.bash_completion/alacritty
-
-# prompt
-eval "$(oh-my-posh init bash --config ~/haruki.omp.json)"
-
-# alias
+# Alias
 alias g='git'
-alias nv='nvim'
 alias live='live-server'
-alias open='xdg-open'
+alias open='explorer.exe'
 alias t='touch'
 alias md='mkdir'
