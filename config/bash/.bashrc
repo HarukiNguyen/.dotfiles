@@ -117,7 +117,7 @@ if ! shopt -oq posix; then
 fi
 
 # Prompt
-eval "$(oh-my-posh init bash --config ~/haruki.omp.json)"
+eval "$(oh-my-posh init bash --config ~/awesome.omp.json)"
 
 # Z directory jumper
 . ~/z.sh
