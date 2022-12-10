@@ -125,10 +125,13 @@ eval "$(oh-my-posh init bash --config ~/awesome.omp.json)"
 # Alias
 alias g='git'
 alias live='live-server'
+## For WSL
 alias open='explorer.exe'
+## End WSL
 alias t='touch'
 alias md='mkdir'
 alias pn=pnpm
+alias pndev='pnpm run dev'
 . "$HOME/.cargo/env"
 
 export NVM_DIR="$HOME/.nvm"
